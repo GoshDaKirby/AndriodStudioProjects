@@ -129,4 +129,4 @@ Each layer maps to a real component of production Android architecture. By Lab 9
 
 **Joshua Easo** — B.S. Computer Science, Olivet Nazarene University (Dec 2025)
 
-[LinkedIn](https://www.linkedin.com/in/joshua-easo-81b1a7196) · [GitHub](https://github.com/GoshDaKirby) · [Portfolio](https://GoshDaKirby.github.io/portfolio)
+[LinkedIn](https://www.linkedin.com/in/joshua-easo-81b1a7196) · [GitHub](https://github.com/GoshDaKirby) · [Portfolio](https://GoshDaKirby.github.io)
